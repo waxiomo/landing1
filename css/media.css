@@ -1,0 +1,167 @@
+
+
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+
+
+	.brand a {
+    font-size: 25px;
+	}
+	.cstm_menu ul li {
+	margin: 5px 0;
+	}
+	.cstm_menu ul li a{
+	font-size: 20px;
+	}
+
+	.hero{
+		padding: 10px 0;
+	}
+	.col_sm_cntr{
+		text-align: center;
+	}
+	.hero_text{
+		margin-top: 20px;
+	}
+	.carousel-indicators [data-bs-target]{
+	width: 12px !important;
+	height: 12px !important;
+
+	}
+	.hero_text h1 {
+		font-size: 35px;
+    	padding-right: 0;
+	}
+	.hero_text p {
+		font-size: 16px;
+    	padding-right: 0;
+	}
+
+	.cstm_indct {
+    bottom: 28px;
+    left: 0;
+	}
+
+	.cst_btn_slidr {
+    margin-top: 30px;
+	}
+
+
+ }
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+
+    .brand a {
+    font-size: 25px;
+	}
+	.cstm_menu ul li {
+	margin: 5px 0;
+	}
+	.cstm_menu ul li a{
+	font-size: 20px;
+	}
+
+	.hero{
+		padding: 10px 0;
+	}
+	.col_sm_cntr{
+		text-align: center;
+	}
+	.hero_text{
+		margin-top: 20px;
+	}
+	.carousel-indicators [data-bs-target]{
+	width: 12px !important;
+	height: 12px !important;
+
+	}
+	.hero_text h1 {
+		font-size: 35px;
+    	padding-right: 0;
+	}
+	.hero_text p {
+		font-size: 16px;
+    	padding-right: 0;
+	}
+
+	.cstm_indct {
+    bottom: 28px;
+    left: 0;
+	}
+
+	.cst_btn_slidr {
+    margin-top: 30px;
+	}
+
+ }
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+
+	.hero{
+		padding: 0 0 20px 0;
+	}
+
+	.cstm_menu ul li {
+	margin: 5px 0;
+	}
+	.carousel-indicators [data-bs-target]{
+	width: 12px !important;
+	height: 12px !important;
+
+	}
+	.hero_text h1 {
+		font-size: 40px;
+    	padding-right: 0;
+	}
+	.hero_text p {
+		font-size: 20px;
+    	padding-right: 50px;
+	}
+
+	.cstm_indct {
+    bottom: 28px;
+    left: -84%;
+	}
+
+	.cst_btn_slidr {
+    margin-top: 30px;
+	}
+
+ }
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+
+	.hero_text h1 {
+    padding-right: 141px;
+	}
+	.hero_text p {
+    padding-right: 40px;
+	}
+
+ }
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) { 
+
+.hero_text h1{
+
+	padding-right: 231px ;
+}
+
+.hero_text p{
+	padding-right: 117px;
+}
+
+
+ }
+
+/*Extra Extra large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px) { 
+
+
+
+ }
